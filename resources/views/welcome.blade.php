@@ -86,7 +86,7 @@
         </div>
 
         <div class="links">
-            <a href="https://github.com/laravel/laravel">Ссылка на GitHub</a>
+            <a href="https://github.com/pwnz22/auth_test_task">Ссылка на GitHub</a>
         </div>
     </div>
 </div>
